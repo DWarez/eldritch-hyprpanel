@@ -9,7 +9,7 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
-
+![Bar example](imgs/bar.png)
 
 ### Installation
 1. Download the `eldritch.json` file and move it to your ags themes configuration folder (typically `$HOME/.config/ags/themes`)
